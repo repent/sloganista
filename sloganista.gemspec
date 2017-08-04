@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "sloganista"
-  spec.version       = '0.1.1'
+  spec.version       = '0.1.2'
   spec.authors       = ["Dan Hetherington"]
   spec.email         = ["dan.hetherington@gmail.com"]
   spec.summary       = %q{Random slogan}
